@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SUPER DEL SUR</title>
+    <style>
+     
+
+        body{
+            background-color:#4caf4f;
+        }
+
+        h1 {
+            text-align: center;
+            font-size: 35px;
+            color: white;
+            font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        }
+        img{
+            width: 25%;
+            margin: 0 auto;
+            display: block;
+        }
+    </style>
+
+    <script type="text/javascript">
+
+        if (window.addEventListener) {
+            var codigo = "";
+            window.addEventListener("keydown", function (e) {
+                codigo += String.fromCharCode(e.keyCode);
+                if (e.keyCode == 13) {
+                    window.location = "https://localhost/verificador_web/mostrar_producto.php?codigo=" + codigo;
+                    codigo = "";
+                }
+            }, true);
+        }
+    </script>
+</head>
+<body>
+        <br>
+        <br>
+        <div class="logo">
+            <img src="img/icono_super.png" alt="25%" width="25%">
+        </div>
+    <div>
+        <img src="img/barcode-green.gif" alt="50%" width="40%" height="">
+    </div>
+    <h1>Favor de ingresar el código de barras abajo del scanner...</h1>
+</body>
+
+</html>

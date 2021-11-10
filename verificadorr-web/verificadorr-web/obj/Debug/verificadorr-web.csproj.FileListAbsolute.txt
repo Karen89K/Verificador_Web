@@ -1,0 +1,10 @@
+C:\Users\Karen Ornelas\source\repos\verificadorr-web\verificadorr-web\bin\Debug\verificadorr-web.exe.config
+C:\Users\Karen Ornelas\source\repos\verificadorr-web\verificadorr-web\bin\Debug\verificadorr-web.exe
+C:\Users\Karen Ornelas\source\repos\verificadorr-web\verificadorr-web\bin\Debug\verificadorr-web.pdb
+C:\Users\Karen Ornelas\source\repos\verificadorr-web\verificadorr-web\obj\Debug\verificadorr-web.csproj.AssemblyReference.cache
+C:\Users\Karen Ornelas\source\repos\verificadorr-web\verificadorr-web\obj\Debug\verificadorr_web.Form1.resources
+C:\Users\Karen Ornelas\source\repos\verificadorr-web\verificadorr-web\obj\Debug\verificadorr_web.Properties.Resources.resources
+C:\Users\Karen Ornelas\source\repos\verificadorr-web\verificadorr-web\obj\Debug\verificadorr-web.csproj.GenerateResource.cache
+C:\Users\Karen Ornelas\source\repos\verificadorr-web\verificadorr-web\obj\Debug\verificadorr-web.csproj.CoreCompileInputs.cache
+C:\Users\Karen Ornelas\source\repos\verificadorr-web\verificadorr-web\obj\Debug\verificadorr-web.exe
+C:\Users\Karen Ornelas\source\repos\verificadorr-web\verificadorr-web\obj\Debug\verificadorr-web.pdb
